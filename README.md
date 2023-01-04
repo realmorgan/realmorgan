@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Precious Morgan Okere, a certified Web Application Developer.
+- 👋 Hi, I’m Precious Morgan Okere, a certified Full-Stack Web Developer.
 - 👀 I’m interested in Full-Stack Software Development.
 - 🌱 I’m currently learning Backend PHP Laravel 9.0 Framework.
 - 💞️ I’m looking to collaborate on revolutionary projects.
