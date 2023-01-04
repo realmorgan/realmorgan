@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Precious Morgan Okere, a certified Web Application Developer.
-- 👀 I’m interested in Full-Stack Software Developement.
+- 👀 I’m interested in Full-Stack Software Development.
 - 🌱 I’m currently learning Backend PHP Laravel 9.0 Framework.
 - 💞️ I’m looking to collaborate on revolutionary projects.
 - 📫 How to reach me 👉 const myContacts = { Email: 'prcsmorgan@gmail.com', Phone: +2348163283884 }
