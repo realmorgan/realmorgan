@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m Morgan Okere, a certified Full-Stack Web Developer.
+- ## 👋 Hi, I’m Morgan Okere, a certified Full-Stack Web Application Developer.
 - ### 💡 I’m interested in Full-Stack Software Development.
 - #### 👨🏻‍💻 I’m currently learning Laravel 9.0 Framework - PHP
 - 🤝 I’m looking to collaborate on revolutionary projects.
