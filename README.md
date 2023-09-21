@@ -7,7 +7,9 @@
 
 ## 👨🏻‍💻 Languages & Tools:
 
-- [![My Skills](https://skillicons.dev/icons?i=js,php,html,css,bootstrap,mysql,linux,react,python,figma)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,php,html,css,bootstrap,react,python)](https://skillicons.dev)
+
+- [![My Skills](https://skillicons.dev/icons?i=linux,mysql,postman,figma)](https://skillicons.dev)
 
 <!---
 realmorgan/realmorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
