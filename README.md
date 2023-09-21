@@ -6,7 +6,7 @@
 
 - ### My Skill Set:
 
-- [![My Skills](https://skillicons.dev/icons?i=js,php,html,css,bootstrap,mysql)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,php,html,css,bootstrap,mysql,react,w3schools,python,figma)](https://skillicons.dev)
 
 <!---
 realmorgan/realmorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
