@@ -7,17 +7,13 @@
 
 ## 👨🏻‍💻 Languages & Tools:
 
-- [![My Skills](https://skillicons.dev/icons?i=js,php,html,css,bootstrap,react,python)](https://skillicons.dev)
-
-- [![My Skills](https://skillicons.dev/icons?i=linux,mysql,postman,figma)](https://skillicons.dev)
-
-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,php,html,css,bootstrap,react,python" />
   </a>
 </p>
 
-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,mysql,postman,figma" />
   </a>
