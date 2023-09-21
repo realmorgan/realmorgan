@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Morgan Okere, a Software Developer.
 - 💡 I’m interested in Full-Stack Software Development.
-- #### 👨🏻‍🎓 I’m currently learning C Programmming || Python || Laravel 9.0 Framework
-- #### 🤝 I’m looking to collaborate on revolutionary projects.
-- ##### 📫 How to reach me 👉 const myContact = { Email: 'prcsmorgan@gmail.com', Phone: +2348163283884 }
+- 👨🏻‍🎓 I’m currently learning C Programmming || Python || Laravel 9.0 Framework
+- 🤝 I’m looking to collaborate on revolutionary projects.
+- 📫 How to reach me 👉 const myContact = { Email: 'prcsmorgan@gmail.com', Phone: +2348163283884 }
 
 
 # 👨🏻‍💻 Languages & Tools:
