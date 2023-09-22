@@ -2,7 +2,7 @@
 ## A Full-Stack Software Developer.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </div>
 
 - 💡 I’m interested in Full-Stack Software Development.
