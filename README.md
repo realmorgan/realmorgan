@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Morgan Okere 
+<div align="center">
 ### A Full-Stack Software Developer
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
