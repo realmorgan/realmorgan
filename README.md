@@ -1,4 +1,10 @@
-# 👋 Hi, I’m Morgan Okere, a Software Developer.
+# 👋 Hi, I’m Morgan Okere 
+## A Full-Stack Software Developer.
+
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100"/>
+</div>
+
 - 💡 I’m interested in Full-Stack Software Development.
 - 👨🏻‍🎓 I’m currently learning C Programmming || Python || Laravel 9.0 Framework
 - 🤝 I’m looking to collaborate on revolutionary projects.
