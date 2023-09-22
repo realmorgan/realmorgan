@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Morgan Okere 
-<div style="colour: blue" align="center">
-<b>A Full-Stack Software Developer</b>
+<div class="color: blue" align="center">
+ <h3>
+   <b>
+     A Full-Stack Software Developer
+   </b>
+ </h3>
 </div>
 
 <div id="header" align="center">
