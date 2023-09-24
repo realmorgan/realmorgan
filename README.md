@@ -30,13 +30,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,java,mysql,laravel,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=linux,git,java,mysql,postman,laravel" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,github,angular,photoshop,adobe" />
+    <img src="https://skillicons.dev/icons?i=vue,github,figma,angular,photoshop,adobe" />
   </a>
 </p>
 
