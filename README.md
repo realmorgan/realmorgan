@@ -17,7 +17,7 @@
 - 💡 I’m interested in Full-Stack Software Development.
 - 👨🏻‍🎓 I’m currently learning C Programmming || Python || Laravel 9.0 Framework
 - 🤝 I’m looking to collaborate on revolutionary projects.
-- 📫 How to reach me 👉 const myContact = { Email: 'preciousokere.mc@gmail.com', Phone: +2348163283884 }
+- 📫 How to reach me 👉 const myContact = { Email: 'preciousokere.mc@gmail.com' }
 
 
 # 👨🏻‍💻 Languages & Tools:
@@ -30,9 +30,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,mysql,laravel,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=linux,git,java,sql,laravel,postman,figma" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,database,github,angular,photoshop,adobe" />
+  </a>
+</p>
+
+
 
 <!---
 realmorgan/realmorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
