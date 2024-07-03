@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Precious Morgan Okere 
+## 👋 <div class="color: blue" align="center"> Hi, I’m Precious Morgan Okere </div>
+
 <div class="color: blue" align="center">
  <h3>
    <b>
