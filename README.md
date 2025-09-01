@@ -20,7 +20,7 @@
 - 🚀 I’m currently learning C Programmming || Python || Laravel 9.0 Framework
 - 🤝 I’m looking to collaborate on revolutionary projects.
 - 💼 Available and efficient in any mode of work - on site, remote or hybrid.
-- 📫 How to reach me 👉 const myContact = { Email: 'prcsmorgan@gmail.com' }
+- 📫 How to reach me 👉 const myContact = { Email: 'preciousokere.mc@gmail.com' }
 
 
 # 👨🏻‍💻 Languages & Tools:
